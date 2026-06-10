@@ -11,4 +11,4 @@ Things I learned:<br>
 - Setting variables in css<br>
 - Manipulating the css properties using js<br>
 
-Live: https://learning-softdev.github.io/Etch-A-Sketch/
+Live: https://owa-dev.github.io/Etch-A-Sketch/
